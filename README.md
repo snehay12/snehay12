@@ -1,53 +1,61 @@
-# 👋 Hi, I'm Sneha
+<h1 align="center">
+  Hi 👋, I'm Sneha
+</h1>
 
-Vice President at Citi with 15+ years of experience building and leading large-scale financial systems.  
-I currently lead a team of 6 developers delivering highly reliable, scalable platforms in regulated environments.
-
-My core focus has been **automating high-risk, manual touchpoint operations** and transforming them into
-**resilient, highly available, event-driven systems**.
-
-Alongside my leadership role, I’m actively expanding into **Python, data engineering, and AI engineering**
-to build intelligent, automation-first financial systems.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1000&color=4A90E2&center=true&vCenter=true&width=800&lines=Vice+President+%7C+Enterprise+Engineering+Leader;Building+Resilient+Financial+Systems;Transitioning+into+AI+Engineering+%26+Intelligent+Automation" />
+</p>
 
 ---
 
-## 🏦 Professional Background
+## 🏦 About Me
 
-- Vice President, Citi  
-- 15+ years in enterprise software engineering
-- Led cross-functional teams across backend, integration, and platform engineering
-- Deep experience in regulated, high-availability financial systems
+I am a **Vice President at Citi** with **15+ years of experience** designing, building, and leading
+enterprise-grade financial systems in highly regulated environments.
 
----
+I currently lead a team of **6 developers**, focusing on:
+- Automating **high-risk manual touchpoint operations**
+- Designing **highly available, fault-tolerant microservices**
+- Building **event-driven, scalable platforms**
 
-## 🛠️ Core Technical Expertise
-
-**Backend & Platforms**
-- Java, Spring Boot, Microservices
-- Kafka, event-driven architectures
-- REST APIs, fault-tolerant systems
-- Oracle DB, SQL, data modeling
-
-**Frontend**
-- Angular
-
-**Reliability & Scale**
-- High availability design
-- Risk reduction through automation
-- Production-grade system ownership
+Alongside my leadership role, I am intentionally expanding into **Python, data engineering, and AI engineering**
+to enable **intelligent, automation-first financial systems**.
 
 ---
 
-## 🤖 Current Learning & Focus
+## 🛠️ Core Technology Stack
 
-I’m intentionally transitioning toward an **AI Engineer career path**, focusing on:
+### Backend & Distributed Systems
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=flat-square&logo=apachekafka)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=flat-square)
 
-- Python (core language & ecosystem)
-- Data pipelines & analytics
-- Machine learning fundamentals
-- Applying AI to **financial automation and risk reduction**
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-Courses:
+### Databases & Data
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Reliability & Scale
+![High Availability](https://img.shields.io/badge/High_Availability-Design-success?style=flat-square)
+![Event Driven](https://img.shields.io/badge/Event_Driven-Architecture-informational?style=flat-square)
+
+---
+
+## 🤖 AI Engineering Journey (In Progress)
+
+I am actively transitioning toward an **AI Engineer career path**, with a focus on applying AI to
+**financial automation and operational risk reduction**.
+
+### Current Focus
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+### Learning
 - *Python for Everybody*
 - *Applied Data Science with Python*
 
@@ -56,38 +64,56 @@ Courses:
 ## 📂 Featured Repositories
 
 ### 🔹 Python Foundations
-Hands-on Python projects focusing on clean code, data handling, and automation.
+Clean, production-style Python code focusing on:
 - File processing
 - API ingestion
 - Data transformation pipelines
 
 ### 🔹 Data Engineering & Analytics
-Projects using Pandas, NumPy, and visualization libraries to analyze and prepare data for ML workflows.
+Hands-on projects using Pandas and NumPy to:
+- Clean and validate data
+- Perform exploratory analysis
+- Prepare features for ML workflows
 
 ### 🔹 Machine Learning Projects
-End-to-end ML experiments:
+End-to-end ML workflows:
 - Feature engineering
 - Model training & evaluation
 - Practical use cases aligned to financial systems
 
-### 🔹 AI Capstone (In Progress)
-A real-world AI-driven automation project focused on reducing manual risk in financial operations.
+### 🔹 AI Capstone (In Progress 🚧)
+A real-world AI-driven automation project focused on:
+- Reducing operational risk
+- Detecting anomalies in financial processes
+- Integrating ML with microservices
 
 ---
 
 ## 🚀 What I'm Building Toward
 
-- Intelligent automation for financial systems
+- Intelligent automation for financial platforms
 - AI-assisted operational risk detection
 - Data-driven decision pipelines
-- Production-ready ML systems integrated with microservices
+- Production-ready ML systems embedded into enterprise architectures
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: *(add link)*
-- GitHub: You’re here 🙂
+- 💼 LinkedIn: https://www.linkedin.com/in/snehayadunath/
+- 💻 GitHub: You’re here 🙂
 
-I believe the future of enterprise systems lies at the intersection of  
-**distributed systems, data, and AI-driven automation**.
+> *I believe the future of enterprise systems lies at the intersection of  
+distributed systems, data, and AI-driven automation.*
